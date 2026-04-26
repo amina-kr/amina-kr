@@ -19,8 +19,6 @@
 
 ## 👩‍💻 À propos de moi
 
-Je suis une étudiante en Licence 3 Informatique à l'Université de Mouloud Mammeri Tizi-Ouzou. Je suis passionnée par le développement et je prépare un Master en France en génie logiciel ou systèmes d'information.
-
 - **Nom** : Amina Kireche
 - **Niveau** : Licence 3 Informatique
 - **Objectif** : Master en France — Génie Logiciel / Systèmes d'Information
@@ -34,7 +32,7 @@ Je suis une étudiante en Licence 3 Informatique à l'Université de Mouloud Mam
 - Gestion de bases de données
 
 ### 🎯 Je cherche
-- Une université française pour un Master en Informatique 🎓
+- Une université française pour poursuivre mes études en Informatique 🎓
 
 ---
 
@@ -126,7 +124,7 @@ Développement d'un **CRM (Customer Relationship Management)** complet dans le c
 
 
 ### 🌟 Candidature Master — Universités Françaises
-Je postule actuellement pour intégrer un **Master Informatique** (Génie Logiciel, Systèmes d'Information ou équivalent) dans les universités françaises pour la rentrée 2025.
+Je postule actuellement pour poursuivre mes études en (Génie Logiciel, Systèmes d'Information ou équivalent) dans les universités françaises pour la rentrée 2026.
 
 ---
 
