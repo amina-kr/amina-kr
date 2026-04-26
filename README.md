@@ -127,26 +127,14 @@ Développement d'un **CRM (Customer Relationship Management)** complet dans le c
 
 | Année | Diplôme | Établissement |
 |-------|---------|---------------|
-| 2024 – 2025 | **Licence 3 Informatique** *(en cours)* | Université d'Alger, Algérie |
-| 2023 – 2024 | Licence 2 Informatique | Université d'Alger, Algérie |
-| 2022 – 2023 | Licence 1 Informatique | Université d'Alger, Algérie |
+| 2025 – 2026 | **Licence 3 Informatique** *(en cours)* | Université de Mouloude Mammeri Tizi-Ouzou |
+| 2024 – 2025 | Licence 2 Informatique | Université de Mouloude Mammeri Tizi-Ouzou |
+| 2023 – 2024 | Licence 1 Informatique |Université de Mouloude Mammeri Tizi-Ouzou |
+| 2022 – 2023 | Baccalauréat — Série Mathématiques (Mention Bien) | Lycée des Frères MArtyrs Chekroun Boudjima Tizi-Ouzou |
+
 
 ### 🌟 Candidature Master — Universités Françaises
 Je postule actuellement pour intégrer un **Master Informatique** (Génie Logiciel, Systèmes d'Information ou équivalent) dans les universités françaises pour la rentrée 2025.
-
----
-
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amina-kr&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amina-kr&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=c9d1d9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amina-kr&theme=dark&hide_border=true&background=0d1117&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7)
-
-</div>
 
 ---
 
@@ -156,7 +144,7 @@ Je postule actuellement pour intégrer un **Master Informatique** (Génie Logici
 
 [![Email](https://img.shields.io/badge/Email_académique-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminakireche2005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amina-kireche)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amina-kr)
+
 
 </div>
 
