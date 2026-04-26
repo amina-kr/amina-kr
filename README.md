@@ -19,30 +19,22 @@
 
 ## 👩‍💻 À propos de moi
 
-```python
-class EtudianteInformatique:
-    def __init__(self):
-        self.nom         = "Amina Kireche"
-        self.niveau      = "Licence 3 Informatique"
-        self.objectif    = "Master en France — Génie Logiciel / Systèmes d'Information"
-        self.localisation = "Alger, Algérie 🇩🇿"
-        self.statut      = "En stage — Développement CRM complet d'entreprise"
+Je suis une étudiante en Licence 3 Informatique à l'Université de Mouloud Mammeri Tizi-Ouzou. Je suis passionnée par le développement et je prépare un Master en France en génie logiciel ou systèmes d'information.
 
-    def passions(self):
-        return [
-            "Développement Web Full-Stack",
-            "Applications mobiles Android",
-            "Architecture logicielle (MVC, Clean Code)",
-            "Gestion de bases de données",
-        ]
+- **Nom** : Amina Kireche
+- **Niveau** : Licence 3 Informatique
+- **Objectif** : Master en France — Génie Logiciel / Systèmes d'Information
+- **Localisation** : Tizi-Ouzou, Algérie
+- **Statut** : En stage — Développement CRM complet d'entreprise
 
-    def cherche(self):
-        return "Une université française pour un Master en Informatique 🎓"
+### 💡 Mes passions
+- Développement Web Full-Stack
+- Applications mobiles Android
+- Architecture logicielle (MVC, Clean Code)
+- Gestion de bases de données
 
-moi = EtudianteInformatique()
-print(moi.cherche())
-# → "Une université française pour un Master en Informatique 🎓"
-```
+### 🎯 Je cherche
+- Une université française pour un Master en Informatique 🎓
 
 ---
 
