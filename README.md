@@ -21,7 +21,7 @@
 
 - **Nom** : Amina Kireche
 - **Niveau** : Licence 3 Informatique
-- **Objectif** : Master en France — Génie Logiciel / Systèmes d'Information
+- **Objectif** : Poursuivre mes études en France — Génie Logiciel / Systèmes d'Information
 - **Localisation** : Tizi-Ouzou, Algérie
 - **Statut** : En stage — Développement CRM complet d'entreprise
 
