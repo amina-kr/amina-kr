@@ -123,7 +123,7 @@ Développement d'un **CRM (Customer Relationship Management)** complet dans le c
 | 2022 – 2023 | Baccalauréat — Série Mathématiques (Mention Bien) | Lycée des Frères MArtyrs Chekroun Boudjima Tizi-Ouzou |
 
 
-### 🌟 Candidature Master — Universités Françaises
+### 🌟 Candidature — Universités Françaises
 Je postule actuellement pour poursuivre mes études en (Génie Logiciel, Systèmes d'Information ou équivalent) dans les universités françaises pour la rentrée 2026.
 
 ---
