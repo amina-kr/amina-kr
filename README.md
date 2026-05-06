@@ -93,7 +93,7 @@ Développement de plusieurs sites web dynamiques avec gestion de base de donnée
 - Backend : PHP avec connexion MySQL
 - Intégration de formulaires, sessions utilisateurs, gestion de contenu
 
-[![Voir les projets](https://img.shields.io/badge/📁_Voir_mes_projets-181717?style=for-the-badge&logo=github)](https://github.com/amina-kr?tab=repositories)
+
 
 ---
 
@@ -132,8 +132,7 @@ Je postule actuellement pour poursuivre mes études en (Génie Logiciel, Systèm
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email_académique-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminakireche2005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amina-kireche)
+[![Email](https://img.shields.io/badge/Email_académique-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:https://www.google.com/support/accounts/bin/answer.py?answer=181692)
 
 
 </div>
