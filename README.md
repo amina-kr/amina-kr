@@ -79,7 +79,7 @@ Application desktop de gestion de contacts développée avec une architecture **
 - ✅ Interface utilisateur intuitive
 - ✅ Séparation claire des couches (Modèle / Vue / Contrôleur)
 
-[![Voir le projet](https://img.shields.io/badge/📁_Voir_le_code-181717?style=for-the-badge&logo=github)](https://github.com/amina-kr)
+[![Voir le projet](https://img.shields.io/badge/📁_Voir_le_code-181717?style=for-the-badge&logo=github)](https://github.com/amina-kr/Gestionnaire-Contacts-MVC)
 
 ---
 
