@@ -132,7 +132,7 @@ Je postule actuellement pour poursuivre mes études en (Génie Logiciel, Systèm
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email_académique-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amina.kireche@fgei.ummto.dz)
+[![Email](https://img.shields.io/badge/Email_académique-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kireche.amina2024@gmail.com)
 
 </div>
 
