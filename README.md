@@ -21,18 +21,12 @@
 
 - **Nom** : Amina Kireche
 - **Niveau** : Licence 3 Informatique
-- **Objectif** : Poursuivre mes études en France — Génie Logiciel / Systèmes d'Information
 - **Localisation** : Tizi-Ouzou, Algérie
-- **Statut** : En stage — Développement CRM complet d'entreprise
-
 ### 💡 Mes passions
 - Développement Web Full-Stack
 - Applications mobiles Android
 - Architecture logicielle (MVC, Clean Code)
 - Gestion de bases de données
-
-### 🎯 Je cherche
-- Une université française pour poursuivre mes études en Informatique 🎓
 
 ---
 
@@ -105,9 +99,6 @@ Développement de plusieurs sites web dynamiques avec gestion de base de donnée
 | 2023 – 2024 | Licence 1 Informatique |Université de Mouloude Mammeri Tizi-Ouzou |
 | 2022 – 2023 | Baccalauréat — Série Mathématiques (Mention Bien) | Lycée des Frères MArtyrs Chekroun Boudjima Tizi-Ouzou |
 
-
-### 🌟 Candidature — Universités Françaises
-Je postule actuellement pour poursuivre mes études en (Génie Logiciel, Systèmes d'Information ou équivalent) dans les universités françaises pour la rentrée 2026.
 
 ---
 
