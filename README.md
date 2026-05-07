@@ -100,15 +100,6 @@ Développement de plusieurs sites web dynamiques avec gestion de base de donnée
 | 2022 – 2023 | Baccalauréat — Série Mathématiques (Mention Bien) | Lycée des Frères MArtyrs Chekroun Boudjima Tizi-Ouzou |
 
 
----
-
-## 📫 Me Contacter
-
-<div align="center">
-
-📧 **Email :** kireche.amina2024@gmail.com
-
-
 </div>
 
 ---
