@@ -94,23 +94,6 @@ Développement de plusieurs sites web dynamiques avec gestion de base de donnée
 - Intégration de formulaires, sessions utilisateurs, gestion de contenu
 
 
-
----
-
-### 🏢 CRM de Gestion Complète d'Entreprise *(En cours — Stage)*
-> *Laravel · MySQL · PHP · JavaScript*
-
-Développement d'un **CRM (Customer Relationship Management)** complet dans le cadre de mon stage en entreprise.
-
-**Modules en développement :**
-- 🔄 Gestion des clients et prospects
-- 🔄 Suivi des opportunités commerciales
-- 🔄 Tableau de bord & reporting
-- 🔄 Gestion des utilisateurs et des droits
-- 🔄 Architecture MVC avec Laravel
-
-> 📌 *Projet en cours — dépôt disponible à la fin du stage*
-
 ---
 
 ## 🎓 Parcours Académique
