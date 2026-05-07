@@ -88,16 +88,6 @@ Développement de plusieurs sites web dynamiques avec gestion de base de donnée
 - Intégration de formulaires, sessions utilisateurs, gestion de contenu
 
 
----
-
-## 🎓 Parcours Académique
-
-| Année | Diplôme | Établissement |
-|-------|---------|---------------|
-| 2025 – 2026 | **Licence 3 Informatique** *(en cours)* | Université de Mouloude Mammeri Tizi-Ouzou |
-| 2024 – 2025 | Licence 2 Informatique | Université de Mouloude Mammeri Tizi-Ouzou |
-| 2023 – 2024 | Licence 1 Informatique |Université de Mouloude Mammeri Tizi-Ouzou |
-| 2022 – 2023 | Baccalauréat — Série Mathématiques (Mention Bien) | Lycée des Frères MArtyrs Chekroun Boudjima Tizi-Ouzou |
 
 
 </div>
