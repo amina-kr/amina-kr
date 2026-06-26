@@ -1,103 +1,148 @@
-## Hi there 👋
-
-<!-- This is the GitHub profile template -->
+# 👨‍💻 Amina Kireche
 
 <div align="center">
 
-<!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=700&lines=%F0%9F%8E%93+%C3%89tudiante+en+Informatique)](https://github.com/amina-kr)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Full-Stack%20Developer;Mobile%20Developer;Architecture%20%26%20Design;Licence%203%20Informatique)](https://github.com/amina-kr)
 
-<br/>
+![Profile Views](https://komarev.com/ghpvc/?username=amina-kr&style=flat-square&color=10B981&label=Vues) &nbsp;
+![GitHub followers](https://img.shields.io/github/followers/amina-kr?style=flat-square&color=10B981&labelColor=0d1117&label=Suiveurs)
 
-<!-- Profile views + followers badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=amina-kr&style=flat-square&color=6EE7B7&label=Visites+profil)
-![GitHub followers](https://img.shields.io/github/followers/amina-kr?style=flat-square&color=6EE7B7&labelColor=0d1117&label=Followers)
+**Tizi-Ouzou, Algérie** • Candidature au universitées • Passionnée par la programmation et le devloppement
 
 </div>
 
 ---
 
-## 👩‍💻 À propos de moi
+## 🚀 Projets Majeurs
 
-- **Nom** : Amina Kireche
-- **Niveau** : Licence 3 Informatique
-- **Localisation** : Tizi-Ouzou, Algérie
-### 💡 Mes passions
-- Développement Web Full-Stack
-- Applications mobiles Android
-- Architecture logicielle (MVC, Clean Code)
-- Gestion de bases de données
+### 📊 SIT-ERP — Système de Gestion Modulaire d'Entreprise  
+**Solutions IT Algérie** | Projet de Fin d'Études | **Note: 18.5/20** ⭐
 
----
+Système ERP complet et modulaire conçu pour optimiser la gestion interne d'une entreprise de services IT.
 
-## 🛠️ Stack Technique
+**Stack technologique :**
+- **Frontend :** React 18, TypeScript, Tailwind CSS, Responsive Design
+- **Backend :** Laravel 10, PHP 8, RESTful API
+- **Base de données :** MySQL, Relations complexes
+- **Architecture :** MVC, Composants modulaires
 
-### 🌐 Web & Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Fonctionnalités implémentées :**
+- ✅ Gestion des utilisateurs et authentification sécurisée
+- ✅ Dashboard interactif avec statistiques en temps réel
+- ✅ Modules métier modulaires et extensibles
+- ✅ Système de permissions intégré
+- ✅ Interface intuitive et performante
 
-### ⚙️ Backend & Frameworks
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+**Apprentissages clés :** Architecture logicielle robuste, intégration frontend-backend, gestion de projets complexes
 
-### 📱 Mobile
-![Android](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
-### 🗄️ Bases de données
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=w3c&logoColor=white)
-
-### 🔧 Outils & Méthodes
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MVC](https://img.shields.io/badge/Architecture_MVC-6EE7B7?style=for-the-badge&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+🔗 [Découvrir le projet →](https://github.com/amina-kr) • 📄 [Documentation complète →](#)
 
 ---
 
-## 🚀 Projets Réalisés
+### 📱 TaskFlow — Application Mobile de Gestion des Tâches  
+**Projet personnel en développement** | Flutter + MVVM
 
-### 🗂️ Application de Gestion de Contacts — Architecture MVC
-> *Python · Architecture MVC · Interface graphique*
+Application intelligente de gestion des tâches avec planification.
 
-Application desktop de gestion de contacts développée avec une architecture **Modèle-Vue-Contrôleur** stricte.
+**Architecture & Technologie :**
+- **Framework :** Flutter (SDK)
+- **Pattern :** MVVM (Model-View-ViewModel)
+ 
+**Sections principales :**
+-  Liste de tâches avec priorités
+-  Agenda intégré
+-  Bloc-notes synchronisé
+-  Chatbot IA pour assistance
+-  Paramètres personnalisables
 
-**Fonctionnalités :**
-- ✅ CRUD complet (Créer, Lire, Modifier, Supprimer)
-- ✅ Recherche et filtrage avancé
-- ✅ Persistance des données
-- ✅ Interface utilisateur intuitive
-- ✅ Séparation claire des couches (Modèle / Vue / Contrôleur)
+**Objectif :** Consolider les compétences en développement mobile et explorer l'intégration d'IA dans les applications.
 
-[![Voir le projet](https://img.shields.io/badge/📁_Voir_le_code-181717?style=for-the-badge&logo=github)](https://github.com/amina-kr/Gestionnaire-Contacts-MVC)
+🔗 [Voir le code →](https://github.com/amina-kr/taskflow)
 
 ---
 
-### 🌐 Sites Web Réalisés
-> *HTML · CSS · JavaScript · PHP · MySQL*
+## 📚 Formation Académique
 
-Développement de plusieurs sites web dynamiques avec gestion de base de données.
+| Diplôme | École | Résultats |
+|---------|-------|-----------|
+| **Licence 3 Informatique** | UMMTO Tizi-Ouzou | Moyenne annuelle: **13.32/20** |
+| **Semestre 6** | - | Moyenne: **14.85/20**  |
+| **Mention** | - | **Très Bien** |
+| **Candidature** | Université Paris-Saclay | L2 Informatique |
 
-**Technologies utilisées :**
-- Frontend : HTML5, CSS3, JavaScript (responsive design)
-- Backend : PHP avec connexion MySQL
-- Intégration de formulaires, sessions utilisateurs, gestion de contenu
+### 📖 Modules clés maîtrisés
+- Programmation Web (PHP, Laravel, JavaScript, React)
+- Développement Mobile (Android Studio, Flutter, Kotlin)
+- Bases de Données (MySQL, Modélisation, SQL avancé)
+- Architecture Logicielle (MVC, UML, Design Patterns)
+- Sécurité Informatique (Cryptographie, PKI, Authentification)
+- Intelligence Artificielle (Machine Learning, Algorithmes de recherche)
+- Données Semi-Structurées (XML, XPath, XSLT, JSON)
+
+---
+
+## 🛠️ Compétences Techniques
+
+### 💻 Développement Web
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### 📱 Développement Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+### 🗄️ Données & Bases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=w3c&logoColor=white)
+
+### 🔧 Outils & Méthodologies
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Architecture](https://img.shields.io/badge/MVC_·_MVVM_·_Clean_Code-10B981?style=flat-square)
+![UML](https://img.shields.io/badge/UML_·_Design_Patterns-10B981?style=flat-square)
+
+---
+
+## 💡 Vision & Intérêts
+
+🎯 **Passionnée par :**
+- Développement Full-Stack moderne avec technologies actuelles
+- Architecture logicielle robuste et maintenable
+- Applications mobiles intelligentes
+- 
+📖 **Approche :**
+- Code clean et bien documenté
+- Architecture scalable dès le départ
+- Apprentissage continu
+- Collaboration efficace en équipe
+
+---
 
 
 
+## 📬 Me Contacter
 
-</div>
+Intéressé par une collaboration, un projet ou une discussion ? N'hésitez pas à me contacter !
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amina.kireche@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amina-kireche)
 
 ---
 
 <div align="center">
 
-*"Le code est comme l'humour. Quand tu dois l'expliquer, c'est qu'il est mauvais." — Cory House*
+**"Code + Architecture + Passion = Innovation"**
 
-**✨ Merci de visiter mon profil — N'hésitez pas à explorer mes projets ! ✨**
+✨ Merci de visiter mon profil — N'hésitez pas à explorer mes projets et à me suivre ! ✨
 
 </div>
